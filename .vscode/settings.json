@@ -1,0 +1,6 @@
+{
+    "iis.configDir": "",
+    "githubPullRequests.ignoredPullRequestBranches": [
+        "main"
+    ]
+}
